@@ -1,0 +1,13 @@
+{
+  "name": "intro_to_npm",
+  "version": "0.0.0",
+  "description": "npm introduction",
+  "main": "app.js",
+  "author": "Shaun Verch",
+  "license": "BSD",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
+  }
+}
