@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="16752d66-0d81-4149-98c4-e6dda54c3474" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/app/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -167,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528203747477</updated>
-      <workItem from="1528203748961" duration="7083000" />
+      <workItem from="1528203748961" duration="7295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7083000" />
+    <option name="totallyTimeSpent" value="7295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1984" y="-11" width="1857" height="1092" extended-state="6" />
@@ -231,8 +233,8 @@
     <entry file="file://$PROJECT_DIR$/app/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -241,7 +243,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>

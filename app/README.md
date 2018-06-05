@@ -1,9 +1,13 @@
-#M101JS
+#M101JS Homework
+
 https://university.mongodb.com/courses/M101JS/about
 
-Instructions for build and run:
+In the course, you will build an ecommerce site, backed by MongoDB.
+
+
+Instructions for build and run Docker Container:
 ```bash
-docker build -t my101app .
-docker run -p 8000:8000 --name m101app --mount type=bind,src="$(pwd)",dst=/app my101app
+docker build -t m101js .
+docker run -p 8000:8000 --name m101app --mount type=bind,src="$(pwd)",dst=/app m101js
 ```
 
